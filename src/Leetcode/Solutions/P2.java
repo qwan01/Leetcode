@@ -21,7 +21,7 @@ package Leetcode.Solutions;
  *     }
  * }
  */
-public class Solution {
+public class P2 {
     public ListNode addTwoNumbers(ListNode l1, ListNode l2) {
         int overflow = 0;
         ListNode t1 = l1;
